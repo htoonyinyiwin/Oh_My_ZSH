@@ -1,7 +1,9 @@
 # Guide to install Oh_My_ZSH the simplest way
 
 sudo apt update 
+
 sudo apt install zsh
+
 sudo apt-get install fonts-powerline
 
 chsh -s /usr/bin/zsh
