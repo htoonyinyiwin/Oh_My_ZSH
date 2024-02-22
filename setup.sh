@@ -24,4 +24,4 @@ sed -i 's/plugins=(git)/plugins=(git zsh-autosuggestions zsh-syntax-highlighting
 
 #Or edit inside .zshrc file > plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
 
-source .zshrc
+source ~/.zshrc
