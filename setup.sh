@@ -14,7 +14,7 @@ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$
 
 sed -i 's/ZSH_THEME="robbyrussell"/ZSH_THEME="powerlevel10k\/powerlevel10k"/' ~/.zshrc
 
-#Or edit inside .zshrc file > ZSH_THEME="powerlevel10k/powerlevel10k"
+#Or edit inside .zshrc file > ZSH_THEME="powerlevel10k\/powerlevel10k"
 
 git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugins/zsh-autosuggestions
 
