@@ -26,7 +26,7 @@ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$
 ```sh
 sed -i 's/ZSH_THEME="robbyrussell"/ZSH_THEME="powerlevel10k\/powerlevel10k"/' ~/.zshrc
 ```
-```sh
+
 #Or edit inside .zshrc file > ZSH_THEME="powerlevel10k/powerlevel10k"
 
 ```sh
