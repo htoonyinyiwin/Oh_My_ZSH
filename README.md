@@ -3,7 +3,7 @@
 Simply execute the below single command
 
 ```sh
-bash -c "$(curl -fsSL [https://raw.githubusercontent.com/htoonyinyiwin/Oh_My_ZSH/main/setup.sh](https://raw.githubusercontent.com/htoonyinyiwin/Oh_My_ZSH/main/setup.sh))"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/htoonyinyiwin/Oh_My_ZSH/main/setup.sh)"
 ```
 Or the following one command after another for better understanding
 
