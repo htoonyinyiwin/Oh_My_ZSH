@@ -7,16 +7,17 @@ Install zsh shell:
 ```sh
 sudo apt install zsh
 ```
-
+Install font-powerline
 ```sh
 sudo apt-get install fonts-powerline
 ```
+Change default shell into zsh
 ```sh
 chsh -s /usr/bin/zsh
 ```
-```sh
+
 #install ohmyzsh using curl
-```
+
 ```sh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
